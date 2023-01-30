@@ -66,3 +66,8 @@ body {
 .col-sm-3 {
   /* flex: 0 0 22% !important; */
 }
+
+.sea-game-main-header {
+  font-family: Moul;
+  font-size: 5.5em;
+}
